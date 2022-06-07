@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/project-flytrap/storefront-test.git/static/css/main.6954b936.chunk.css",
+    "main.js": "/project-flytrap/storefront-test.git/static/js/main.7aabddc1.chunk.js",
+    "main.js.map": "/project-flytrap/storefront-test.git/static/js/main.7aabddc1.chunk.js.map",
+    "runtime-main.js": "/project-flytrap/storefront-test.git/static/js/runtime-main.62d5beaf.js",
+    "runtime-main.js.map": "/project-flytrap/storefront-test.git/static/js/runtime-main.62d5beaf.js.map",
+    "static/js/2.6a9ef7d6.chunk.js": "/project-flytrap/storefront-test.git/static/js/2.6a9ef7d6.chunk.js",
+    "static/js/2.6a9ef7d6.chunk.js.map": "/project-flytrap/storefront-test.git/static/js/2.6a9ef7d6.chunk.js.map",
+    "static/js/3.ac36eb99.chunk.js": "/project-flytrap/storefront-test.git/static/js/3.ac36eb99.chunk.js",
+    "static/js/3.ac36eb99.chunk.js.map": "/project-flytrap/storefront-test.git/static/js/3.ac36eb99.chunk.js.map",
+    "index.html": "/project-flytrap/storefront-test.git/index.html",
+    "static/css/main.6954b936.chunk.css.map": "/project-flytrap/storefront-test.git/static/css/main.6954b936.chunk.css.map",
+    "static/js/2.6a9ef7d6.chunk.js.LICENSE.txt": "/project-flytrap/storefront-test.git/static/js/2.6a9ef7d6.chunk.js.LICENSE.txt",
+    "static/media/cloudwatercolor1.e0d7dbd3.png": "/project-flytrap/storefront-test.git/static/media/cloudwatercolor1.e0d7dbd3.png",
+    "static/media/testMountain.0efb3b5d.png": "/project-flytrap/storefront-test.git/static/media/testMountain.0efb3b5d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62d5beaf.js",
+    "static/js/2.6a9ef7d6.chunk.js",
+    "static/css/main.6954b936.chunk.css",
+    "static/js/main.7aabddc1.chunk.js"
+  ]
+}
